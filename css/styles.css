@@ -5,3 +5,17 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+.bg-dark {
+  background-color: tomato!important;
+}
+.navbar-dark .navbar-brand {
+    color: green;
+}
+.navbar-dark .navbar-nav .active>.nav-link {
+  color: purple;
+}
+.btn-primary {
+    color: #fff;
+    background-color: peru;
+    border-color: white;
+  }
